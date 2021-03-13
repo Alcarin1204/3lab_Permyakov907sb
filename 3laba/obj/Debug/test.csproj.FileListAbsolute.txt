@@ -1,0 +1,40 @@
+G:\C# prog\test\test\bin\Debug\test.exe.config
+G:\C# prog\test\test\bin\Debug\test.exe
+G:\C# prog\test\test\bin\Debug\test.pdb
+G:\C# prog\test\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\C# prog\test\test\obj\Debug\test.Form1.resources
+G:\C# prog\test\test\obj\Debug\test.Properties.Resources.resources
+G:\C# prog\test\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\C# prog\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\C# prog\test\test\obj\Debug\test.exe
+G:\C# prog\test\test\obj\Debug\test.pdb
+G:\Okulov\Programm\test\test\bin\Debug\test.exe.config
+G:\Okulov\Programm\test\test\bin\Debug\test.exe
+G:\Okulov\Programm\test\test\bin\Debug\test.pdb
+G:\Okulov\Programm\test\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\Okulov\Programm\test\test\obj\Debug\test.Form1.resources
+G:\Okulov\Programm\test\test\obj\Debug\test.Properties.Resources.resources
+G:\Okulov\Programm\test\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\Okulov\Programm\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\Okulov\Programm\test\test\obj\Debug\test.exe
+G:\Okulov\Programm\test\test\obj\Debug\test.pdb
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\bin\Debug\test.exe.config
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\bin\Debug\test.exe
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\bin\Debug\test.pdb
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.csprojAssemblyReference.cache
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.Form1.resources
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.Properties.Resources.resources
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.cache
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.exe
+\\iscsi\profiles\PermyakovEV\Desktop\test\test\obj\Debug\test.pdb
+G:\test\test\bin\Debug\test.exe.config
+G:\test\test\bin\Debug\test.exe
+G:\test\test\bin\Debug\test.pdb
+G:\test\test\obj\Debug\test.csprojAssemblyReference.cache
+G:\test\test\obj\Debug\test.Form1.resources
+G:\test\test\obj\Debug\test.Properties.Resources.resources
+G:\test\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\test\test\obj\Debug\test.exe
+G:\test\test\obj\Debug\test.pdb

@@ -1,0 +1,20 @@
+G:\test\test\bin\Debug\test.exe.config
+G:\test\test\bin\Debug\test.exe
+G:\test\test\bin\Debug\test.pdb
+G:\test\test\obj\Debug\L.csprojAssemblyReference.cache
+G:\test\test\obj\Debug\test.Form1.resources
+G:\test\test\obj\Debug\test.Properties.Resources.resources
+G:\test\test\obj\Debug\L.csproj.GenerateResource.cache
+G:\test\test\obj\Debug\L.csproj.CoreCompileInputs.cache
+G:\test\test\obj\Debug\test.exe
+G:\test\test\obj\Debug\test.pdb
+D:\repos for git\3laba\3laba\bin\Debug\test.exe.config
+D:\repos for git\3laba\3laba\bin\Debug\test.exe
+D:\repos for git\3laba\3laba\bin\Debug\test.pdb
+D:\repos for git\3laba\3laba\obj\Debug\L.csprojAssemblyReference.cache
+D:\repos for git\3laba\3laba\obj\Debug\test.Form1.resources
+D:\repos for git\3laba\3laba\obj\Debug\test.Properties.Resources.resources
+D:\repos for git\3laba\3laba\obj\Debug\L.csproj.GenerateResource.cache
+D:\repos for git\3laba\3laba\obj\Debug\L.csproj.CoreCompileInputs.cache
+D:\repos for git\3laba\3laba\obj\Debug\test.exe
+D:\repos for git\3laba\3laba\obj\Debug\test.pdb
